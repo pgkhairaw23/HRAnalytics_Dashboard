@@ -1,4 +1,5 @@
 <img width="1166" height="654" alt="HRDashboard" src="https://github.com/user-attachments/assets/4f387dc8-5a73-41f5-872d-9de2cd4fb7b5" /># HRAnalytics_Dashboard
+
 Interactive Dashboard
 
 The dashboard provides interactive navigation through different HR departments:
